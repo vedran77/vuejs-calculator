@@ -1,4 +1,4 @@
-# calculator
+# vuejs-calculator
 
 ## Project setup
 ```
@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live Preview
+[GitHub Pages](https://vedran77.github.io/vuejs-calculator/).
